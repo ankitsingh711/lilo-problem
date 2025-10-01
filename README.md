@@ -324,9 +324,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Ankit Singh**  
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
+- Email: [developerankit2127@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/ankit-singh-2127/]
+- GitHub: [https://github.com/ankitsingh711]
 
 ---
 
